@@ -2,15 +2,6 @@ Documents for DevOps and AWS Services
 Overview
 Welcome to the Documents for DevOps and AWS Services repository! This repository contains essential documentation and guides to help you understand and utilize various DevOps tools and AWS services effectively.
 
-Table of Contents
-Introduction
-
-DevOps Tools
-
-AWS Services
-
-Contributing
-
 Introduction
 This repository provides a collection of documents and resources aimed at offering a comprehensive understanding of popular DevOps tools and AWS services. Whether you are a beginner or an experienced professional, these resources will help enhance your knowledge and skills.
 
